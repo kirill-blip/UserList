@@ -1,0 +1,22 @@
+.list-container {
+  margin: 2.5%;
+}
+
+h2 {
+  margin: 0;
+}
+
+.input {
+  border: 1px solid black;
+  border-radius: 5px;
+
+  height: 25px;
+  width: 175px;
+
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.user-pagination {
+  display: flex;
+  justify-content: center;
+}
